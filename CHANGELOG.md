@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/secondrnovs/rntrc-js/compare/v2.0.0...v3.0.0) (2025-07-31)
+
+
+### ⚠ BREAKING CHANGES
+
+* hmm
+
+### Features
+
+* hmm ([351568b](https://github.com/secondrnovs/rntrc-js/commit/351568b47934f6a6cf64c5b4b6becb595f1f48d8))
+
 ## [2.0.0](https://github.com/secondrnovs/rntrc-js/compare/v1.0.0...v2.0.0) (2025-07-31)
 
 
