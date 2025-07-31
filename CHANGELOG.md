@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/secondrnovs/rntrc-js/compare/v1.0.0...v2.0.0) (2025-07-31)
+
+
+### ⚠ BREAKING CHANGES
+
+* buttcrack
+
+### Features
+
+* buttcrack ([52f61fd](https://github.com/secondrnovs/rntrc-js/commit/52f61fd22499ed4f594e1d28e6c45dd902bb1374))
+
 ## 1.0.0 (2025-07-31)
 
 
