@@ -91,12 +91,6 @@ jobs:
           name: dist
           path: dist/
 
-      - name: Publish to npm
-        if: steps.release.outputs.release_created == 'true'
-        run: npm publish
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_SECRET }}
-
       - name: Download docs artifacts
         if: steps.release.outputs.release_created == 'true'
         uses: actions/download-artifact@v4
