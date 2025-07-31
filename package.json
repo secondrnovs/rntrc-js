@@ -46,6 +46,7 @@
     "lint": "eslint src/**/*.ts",
     "prettier": "prettier --check src/**/*.ts",
     "test": "jest",
+    "docs": "typedoc --plugin typedoc-plugin-rename-defaults --entryPointStrategy expand --includeVersion src/",
     "build": "rollup -c"
   },
   "devDependencies": {
