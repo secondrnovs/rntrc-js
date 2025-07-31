@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/secondrnovs/rntrc-js/compare/v3.0.0...v3.1.0) (2025-07-31)
+
+
+### Features
+
+* wow ([310d703](https://github.com/secondrnovs/rntrc-js/commit/310d70344ccf97e31bc686fb48fd33568dafc54a))
+
 ## [3.0.0](https://github.com/secondrnovs/rntrc-js/compare/v2.0.0...v3.0.0) (2025-07-31)
 
 
